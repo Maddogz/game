@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MessageProcessorStats>
+  <IDNetGore.Network.MessageProcessorID>
+    <ProcessorID>41</ProcessorID>
+    <Calls>1</Calls>
+    <TotalBits>64</TotalBits>
+    <Min>64</Min>
+    <Max>64</Max>
+  </IDNetGore.Network.MessageProcessorID>
+</MessageProcessorStats>
